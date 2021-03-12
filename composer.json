@@ -1,8 +1,8 @@
 {
-  "name": "stolfam/telegram-simple-message",
+  "name": "stolfam/telegram-simple-message-php",
   "license": "MIT",
   "description": "PHP class for simple sending a Telegram message via a bot.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "library",
   "require": {
     "php": ">= 7.4.0"
